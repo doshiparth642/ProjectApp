@@ -6,6 +6,8 @@ const Header = () => {
             <div className="ui container center">
                 <h1>Why Are You?</h1>
                 <h2>Contact Value Manager</h2>
+                <h1>Hello, How Are You?</h1>
+                <h2>Data Manager</h2>
             </div>
         </div>
     )
